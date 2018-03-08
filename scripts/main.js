@@ -3,11 +3,6 @@ initHeader();
 var height, width;
 var pos = false;
 var sticky = document.getElementById('sticky-nav');
-// var point = getDistance(this);
-
-alert(window.innerHeight);
-
-
 
 
 window.onscroll = function(){
